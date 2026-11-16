@@ -1,0 +1,314 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[VENUSAUR,2]
+FormName = Gigantamax
+Height = 24.0
+Pokedex = In battle, this Pokémon swings around two thick vines. If these vines slammed into a 10-story building, they could easily topple it.
+Generation = 8
+GmaxMove = GMAXVINELASH
+#-------------------------------
+[CHARIZARD,3]
+FormName = Gigantamax
+Height = 28.0
+Pokedex = This colossal, flame-winged figure of a Charizard was brought about by Gigantamax energy.
+Generation = 8
+GmaxMove = GMAXWILDFIRE
+#-------------------------------
+[BLASTOISE,2]
+FormName = Gigantamax
+Height = 25.0
+Pokedex = Water fired from this Pokémon's central main cannon has enough power to blast a hole into a mountain.
+Generation = 8
+GmaxMove = GMAXCANNONADE
+#-------------------------------
+[BUTTERFREE,1]
+FormName = Gigantamax
+Height = 17.0
+Pokedex = Crystallized Gigantamax energy makes up this Pokémon's blindingly bright and highly toxic scales.
+Generation = 8
+GmaxMove = GMAXBEFUDDLE
+#-------------------------------
+[PIKACHU,17]
+FormName = Gigantamax
+Height = 21.0
+Pokedex = The Gigantamax Factor has made Pikachu take on a nostalgic shape that reminds me of the glory days. It's main weapon in battle is it's giant electrified tail.
+Generation = 8
+GmaxMove = GMAXVOLTCRASH
+#-------------------------------
+[MEOWTH,3]
+FormName = Gigantamax
+Height = 33.0
+Pokedex = Meowth's Gigantamax Form appears to be influenced by modern media on Earth. It can summon a wave of coins from it's hands, meaning you'll never be poor again!
+Generation = 8
+GmaxMove = GMAXGOLDRUSH
+#-------------------------------
+[MACHAMP,1]
+FormName = Gigantamax
+Height = 25.0
+Pokedex = The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.
+Generation = 8
+GmaxMove = GMAXCHISTRIKE
+#-------------------------------
+[GENGAR,2]
+FormName = Gigantamax
+Height = 20.0
+Pokedex = Gigantamax Energy has turned Gengar into the personification of darkness itself. It's mouth is said to lead all the way to the afterlife itself!
+Generation = 8
+GmaxMove = GMAXTERROR
+#-------------------------------
+[KINGLER,1]
+FormName = Gigantamax
+Height = 19.0
+Pokedex = The flow of Gigantamax energy has spurred this Pokémon's left pincer to grow to an enormous size. That claw can pulverize anything.
+Generation = 8
+GmaxMove = GMAXFOAMBURST
+#-------------------------------
+[LAPRAS,1]
+FormName = Gigantamax
+Height = 24.0
+Pokedex = Over 5,000 people can ride on its shell at once. And it's a very comfortable ride, without the slightest shaking or swaying.
+Generation = 8
+GmaxMove = GMAXRESONANCE
+#-------------------------------
+[EEVEE,2]
+FormName = Gigantamax
+Height = 18.0
+Pokedex = This huge Eevee has had it's friendship levels pumped to the max by Gigantamax Energy. Strangely, it's unstable genes appear to be fixed, as if this was the true Eeveelution.
+Generation = 8
+GmaxMove = GMAXCUDDLE
+#-------------------------------
+[SNORLAX,1]
+FormName = Gigantamax
+Height = 35.0
+Pokedex = Gigantamax energy has affected stray seeds and even pebbles that got stuck to Snorlax, making them grow to a huge size.
+Generation = 8
+GmaxMove = GMAXREPLENISH
+#-------------------------------
+[GARBODOR,1]
+FormName = Gigantamax
+Height = 21.0
+Pokedex = Due to Gigantamax energy, this Pokémon's toxic gas has become much thicker, congealing into masses shaped like discarded toys.
+Generation = 8
+GmaxMove = GMAXMALODOR
+#-------------------------------
+[MELMETAL,1]
+FormName = Gigantamax
+Height = 25.0
+Pokedex = In a distant land, there are legends about a cyclopean giant. In fact, the giant was a Melmetal that was flooded with Gigantamax energy.
+Generation = 8
+GmaxMove = GMAXMELTDOWN
+#-------------------------------
+[RILLABOOM,1]
+FormName = Gigantamax
+Height = 28.0
+Pokedex = Gigantamax energy has caused Rillaboom's stump to grow into a drum set that resembles a forest.
+GmaxMove = GMAXDRUMSOLO
+#-------------------------------
+[CINDERACE,1]
+FormName = Gigantamax
+Height = 27.0
+Pokedex = Gigantamax energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet.
+GmaxMove = GMAXFIREBALL
+#-------------------------------
+[INTELEON,1]
+FormName = Gigantamax
+Height = 40.0
+Pokedex = Gigantamax Inteleon's Water Gun move fires at Mach 7. As the Pokémon takes aim, it uses the crest on its head to gauge wind and temperature.
+GmaxMove = GMAXHYDROSNIPE
+#-------------------------------
+[CORVIKNIGHT,1]
+FormName = Gigantamax
+Height = 14.0
+Pokedex = Imbued with Gigantamax energy, its wings can whip up winds more forceful than any a hurricane could muster. The gusts blow everything away.
+GmaxMove = GMAXWINDRAGE
+#-------------------------------
+[ORBEETLE,1]
+FormName = Gigantamax
+Height = 14.0
+Pokedex = Its brain has grown to a gargantuan size, as has the rest of its body. This Pokémon's intellect and psychic abilities are overpowering.
+GmaxMove = GMAXGRAVITAS
+#-------------------------------
+[DREDNAW,1]
+FormName = Gigantamax
+Height = 24.0
+Pokedex = It responded to Gigantamax energy by becoming bipedal. First it comes crashing down on foes, and then it finishes them off with its massive jaws.
+GmaxMove = GMAXSTONESURGE
+#-------------------------------
+[COALOSSAL,1]
+FormName = Gigantamax
+Height = 42.0
+Pokedex = Its body is a colossal stove. With Gigantamax energy stoking the fire, this Pokémon's flame burns hotter than 3,600 degrees Fahrenheit.
+GmaxMove = GMAXVOLCALITH
+#-------------------------------
+[FLAPPLE,1]
+FormName = Gigantamax
+Height = 24.0
+Pokedex = Under the influence of Gigantamax energy, it produces much more sweet nectar, and its shape has changed to resemble a giant apple.
+GmaxMove = GMAXTARTNESS
+#-------------------------------
+[APPLETUN,1]
+FormName = Gigantamax
+Height = 24.0
+Pokedex = Due to Gigantamax energy, this Pokémon's nectar has thickened. The increased viscosity lets the nectar absorb more damage than before.
+GmaxMove = GMAXSWEETNESS
+#-------------------------------
+[SANDACONDA,1]
+FormName = Gigantamax
+Height = 22.0
+Pokedex = Sand swirls around its body with such speed and power that it could pulverize a skyscraper.
+GmaxMove = GMAXSANDBLAST
+#-------------------------------
+[TOXTRICITY,2]
+FormName = Gigantamax
+Height = 24.0
+Pokedex = Out of control after its own poison penetrated its brain, it tears across the land in a rampage, contaminating the earth with toxic sweat.
+GmaxMove = GMAXSTUNSHOCK
+#-------------------------------
+[TOXTRICITY,3]
+PokedexForm = 2
+Abilities = PUNKROCK,MINUS
+Moves = 0,SPARK,1,LEER,1,GROWL,1,ACID,1,THUNDERSHOCK,1,FLAIL,1,ACIDSPRAY,1,BELCH,1,NOBLEROAR,1,NUZZLE,1,TEARFULLOOK,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,MAGNETICFLUX
+GmaxMove = GMAXSTUNSHOCK
+UngmaxForm = 1
+#-------------------------------
+[CENTISKORCH,1]
+FormName = Gigantamax
+Height = 75.0
+Pokedex = The heat that comes off a Gigantamax Centiskorch may destabilize air currents. Sometimes it can even cause storms.
+GmaxMove = GMAXCENTIFERNO
+#-------------------------------
+[HATTERENE,1]
+FormName = Gigantamax
+Height = 26.0
+Pokedex = I've come to call Gigantamax Hatterene "The Raging Goddess" after I saw it destroy an entire town with bolts of faerie lightning. It will attack on the slightest sense of harsh emotion.
+GmaxMove = GMAXSMITE
+#-------------------------------
+[GRIMMSNARL,2]
+FormName = Gigantamax
+Height = 32.0
+Pokedex = Gigantamax energy has influenced it's hair to the point that every part of it is a living nightmare. It can make various shapes by manipulating it's own hair.
+GmaxMove = GMAXSNOOZE
+#-------------------------------
+[ALCREMIE,63]
+FormName = Gigantamax
+Height = 30.0
+Pokedex = While Alcremie is a good chef's assistant, it's Gigantamax Form's cream will only make you the fattest Tamagotchi around. It resembles a fusion of all of the Alcremie forms for some reason.
+GmaxMove = GMAXFINALE
+#-------------------------------
+[COPPERAJAH,1]
+FormName = Gigantamax
+Height = 23.0
+Pokedex = After this Pokémon has Gigantamaxed, its massive nose can utterly demolish large structures with a single smashing blow.
+GmaxMove = GMAXSTEELSURGE
+#-------------------------------
+[DURALUDON,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = It's grown to resemble a skyscraper. Parts of its towering body glow due to a profusion of energy.
+GmaxMove = GMAXDEPLETION
+#-------------------------------
+[ETERNATUS,1]
+FormName = Eternamax
+BaseStats = 255,115,250,130,125,250
+Height = 100.0
+Shape = Serpentine
+Pokedex = Infinite amounts of energy pour from this Pokémon's enlarged core, warping the surrounding space-time.
+#-------------------------------
+[URSHIFU,2]
+FormName = Gigantamax Single Strike Style
+Height = 29.0
+Pokedex = The energy released by this Pokémon's fists forms shock waves that can blow away Dynamax Pokémon in just one hit.
+GmaxMove = GMAXONEBLOW
+#-------------------------------
+[URSHIFU,3]
+FormName = Gigantamax Rapid Strike Style
+Types = FIGHTING,WATER
+Moves = 0,SURGINGSTRIKES,1,FOCUSENERGY,1,ENDURE,1,ROCKSMASH,1,AQUAJET,1,LEER,12,AERIALACE,16,SCARYFACE,20,HEADBUTT,24,BRICKBREAK,28,DETECT,32,BULKUP,36,IRONHEAD,40,DYNAMICPUNCH,44,COUNTER,48,CLOSECOMBAT,52,FOCUSPUNCH
+Height = 26.0
+Pokedex = As it waits for the right moment to unleash its Gigantamax power, this Pokémon maintains a perfect one-legged stance. It won't even twitch.
+GmaxMove = GMAXRAPIDFLOW
+UngmaxForm = 1
+#-------------------------------
+[VILEPLUME,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Vileplume's flower has been made so huge by the power of Gigantamax that the body is nothing more than a mere shell anymore. It's pollen can block out the sky for weeks.
+GmaxMove = GMAXPOLLENCANNON
+#-------------------------------
+[HYPNO,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = If you thought Hypno's pendulum was bad enough, you would not want to see the GIGANTAMAX version. Even having a glimpse of it will send you to sleep forever!
+GmaxMove = GMAXNAPTIME
+#-------------------------------
+[JIGGLYPUFF,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Using it's microphone that it conjures from Gigantamax energy, Jigglypuff can sing a beautiful song that could put even the whole Tamagotchi Planet to sleep. Apparently, it came from an ancient microphone itself.
+GmaxMove = GMAXSONG
+#-------------------------------
+[KUCHIZARU,2]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Possessing the largest stomach of all Pokémon, this Pokémon can consume an entire mountain in a single bite. It notably resembles Kuchipatchi a lot more...and has gotten it's legs back!
+GmaxMove = GMAXCONSUME
+#-------------------------------
+[MEMLINN,2]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Gigantamaxing has merged all of Memlinn's hair into one huge strand that, when fully extended, can reach the height of the Tamagotchi Planet itself. From a distance, it looks just like a huge Memetchi.
+GmaxMove = GMAXLASHER
+#-------------------------------
+[MALSTEIN,2]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = This Gigantamax Form reminds me of a sprite of Mametchi on an ancient Tamagotchi device. Gigantamax Energy has granted it's frozen arm a mind of it's own, capable of detaching to breathe out massive blizzards.
+GmaxMove = GMAXSCIENCESTORM
+#-------------------------------
+[CERBUCHIT,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = The Gigantamax Factor has made Cerbuchit resemble Pochitchi more closely. Unlike it's regular form, it only has one head: The other two are just specialized digging claws.
+GmaxMove = GMAXDOGFANG
+#-------------------------------
+[MASKAND,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = The loss of it's hands has made Gigantamax Maskand resemble Maskutchi a lot more. It may be shy, but it's kick can send a Tamagotchi flying all the way to the Sun…in the solar system!
+GmaxMove = GMAXMASKSTRIKE
+#-------------------------------
+[MIMPIYOTA,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Resembles Mimitchi a lot more than it's previous form. Having lost the ability to fly due to it's weight, it uses it's ears to smash skyscrapers with ease.
+GmaxMove = GMAXBUNNYHOP
+#-------------------------------
+[WUKAKIKI,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = When Wukakiki is infused with Gigantamax Energy, it gains the ability to conjure a massive sand cloud that can travel anywhere. It's size does not actually change at all, oddly enough.
+GmaxMove = GMAXPAPERTORNADO
+#-------------------------------
+[SORSCEND,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = By Gigantamaxing, Sorscend's jetpack turns into a propeller cap capable of generating giant hurricanes. It's a lot more childish than regular Sorscend, and I've come to notice it resembles Lovesoratchi's baby form.
+GmaxMove = GMAXSKYLOVE
+#-------------------------------
+[MUKUSTSURI,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = In it's Gigantamax Form, this Pokémon is 100% pure muscle, and can lift planets with ease. Inspection of it's body has shown no vital organs, only muscle.
+GmaxMove = GMAXFLEXTHROW
+#-------------------------------
+[JULIANA,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Gigantamax Juliana's crystals are apparently infused with an energy that lets you transform into a magical warrior. When it spins around in a gemstone hurricane, these crystals get spread all over the Tamagotchi Planet.
+GmaxMove = GMAXFINECUT
+#-------------------------------
+[CHOOTHBRUSH,1]
+FormName = Gigantamax
+Height = 43.0
+Pokedex = Choothbrush couldn't control it's Gigantamax energy, which is now leaking out of all over it's body. This energy apparently makes a great toothpaste that one company has called "Gigantipaste".
+GmaxMove = GMAXCHARISMASTRIKE

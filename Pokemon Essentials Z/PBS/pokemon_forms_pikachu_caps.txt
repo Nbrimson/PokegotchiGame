@@ -1,0 +1,64 @@
+#-------------------------------
+[PIKACHU,8]
+FormName = Original Cap
+EggGroups = Undiscovered
+Pokedex = This Pikachu is wearing a special cap made by Moriritchi herself. It aims to be the very best, like no-one ever was.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,9]
+FormName = Hoenn Cap
+EggGroups = Undiscovered
+Pokedex = A Pikachu that's wearing a cap that is full of nostalgia. Only by wearing one of these special caps can it unleash it's strongest move.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,10]
+FormName = Sinnoh Cap
+EggGroups = Undiscovered
+Pokedex = This Pikachu's cap resembles the Hoenn Cap, but with a shade of blue. For some reason, it has a liking for Kiraritchi.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,11]
+FormName = Unova Cap
+EggGroups = Undiscovered
+Pokedex = For some reason, I feel that a Pikachu wearing this special cap with a hidden power inside feels out of place. Smells like sunglasses for some reason.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,12]
+FormName = Kalos Cap
+EggGroups = Undiscovered
+Pokedex = This Pikachu's cap is the most prime of all the caps. Simply wearing this cap yourself fills you with your truest bonds, now a reality.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,13]
+FormName = Alola Cap
+EggGroups = Undiscovered
+Pokedex = A Pikachu that's wearing a cap with a hidden power that allows it to unleash a deadly thunderstorm. It's very talented, but has a comical side.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,14]
+FormName = Partner Cap
+EggGroups = Undiscovered
+Pokedex = This Pikachu's cap is just the original cap with a different symbol. Oddly enough, if you partner with this Pikachu, you're unlikely to catch any other Pokémon.
+Generation = 8
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
+#-------------------------------
+[PIKACHU,15]
+FormName = World Cap
+EggGroups = Undiscovered
+Pokedex = This Pikachu's cap is called the World Cap because it represents a journey across the world. When it's with you, the journey continues!
+Generation = 8
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = RAICHU,None
